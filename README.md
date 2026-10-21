@@ -12,7 +12,7 @@ Skill page: [clawhub.ai/lkcair/sec](https://clawhub.ai/lkcair/sec). The agent fo
 
 ## Also available
 
-- **MCP server** (Claude, Cursor, VS Code, any MCP client): `uvx sec-finance-ai`, see [sec-ai-mcp](https://github.com/lkcair/sec-ai-mcp)
+- **MCP server** (Claude, Cursor, VS Code, any MCP client): `uvx sec-finance-ai@latest`, see [sec-ai-mcp](https://github.com/lkcair/sec-ai-mcp)
 - **OpenWebUI tool**, thousands of downloads: see [sec-finance-ai](https://github.com/lkcair/sec-finance-ai)
 - **Stocks and crypto skill**: `openclaw skills install @lkcair/stocks`
 
